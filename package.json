@@ -1,0 +1,8 @@
+{
+  "name": "slugify-cli",
+  "version": "0.1.0",
+  "description": "Command-line slug generator with transliteration and custom separators.",
+  "type": "module",
+  "bin": { "slugify-cli": "cli.js" },
+  "license": "MIT"
+}
